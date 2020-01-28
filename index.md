@@ -2,17 +2,21 @@
 
 ---
 
-### Category Name 1 
+### ArcGis Mapping
 
-[Project 1 Title](/sample_page)
+[Vacant Lot Analysis in Baltimore City](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Topographic Analysis of Antartic](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Gremline Sighting Analysis in Baltimore City](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Gremline Sighting Analysis in Stranger Things](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
