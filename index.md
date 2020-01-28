@@ -5,7 +5,7 @@
 ### ArcGis Mapping
 
 [Vacant Lot Analysis in Baltimore City](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/images/Github_1.PNG"/>
 
 ---
 [Topographic Analysis of Antartic](/pdf/sample_presentation.pdf)
