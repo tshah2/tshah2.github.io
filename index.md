@@ -9,7 +9,7 @@
 
 ---
 [Topographic Analysis of Antartic](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/images/github_2.PNG"/>
 
 ---
 [Gremline Sighting Analysis in Baltimore City](http://example.com/)
