@@ -20,8 +20,8 @@
 
 ---
 [Gremline Sighting Analysis in Stranger Things](http://example.com/)
-[<img src="/images/486_14.PNG"/>, <img src="/images/486_15.PNG"/>
-<img src="/images/486_16.PNG"/>]
+<img src="/images/486_14.PNG"/,/images/486_16.PNG"/, /images/486_15.PNG"/>, <img src="/images/486_15.PNG"/>
+<img src="/images/486_16.PNG"/>
 
 ---
 [Building Analysis on Univeristy of Maryland Baltimore County Campus](/sample_page)
