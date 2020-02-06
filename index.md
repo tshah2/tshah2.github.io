@@ -1,7 +1,18 @@
 ## Portfolio
 
 ---
+### Corrosion Research
 
+[Analysis of Molten Salt Corrosion on Various Alloys for Nuclear Application](tshah2.github.io/NucCor.md)
+
+(<img src="/images/486_22.PNG"/>)
+
+---
+[Analysis of Molten Salt Corrosion on Coated and Uncoated Steel for CSP Application](tshah2.github.io/CSPCor.md)
+
+(<img src="/images/486_23.PNG"/>)
+
+---
 ### ArcGis Mapping
 
 [Vacant Lot Analysis in Baltimore City](tshah2.github.io/Vacancy.md)
