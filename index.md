@@ -4,7 +4,7 @@
 
 ### ArcGis Mapping
 
-[Vacant Lot Analysis in Baltimore City](/Vacancy.md)
+[Vacant Lot Analysis in Baltimore City](tshah2.github.io/Vacancy.md)
 
 (<img src="/images/Github_1.PNG"/>, <img src="/images/486_4.PNG"/>, <img src="/images/486_5.PNG"/>
 <img src="/images/486_6.PNG"/>, <img src="/images/486_7.PNG"/> )
