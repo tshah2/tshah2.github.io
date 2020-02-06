@@ -6,22 +6,22 @@
 
 [Vacant Lot Analysis in Baltimore City](tshah2.github.io/Vacancy.md)
 
-(<img src="/images/Github_1.PNG"/>)
+(<img src="/images/486_17.PNG"/>)
 
 ---
 [Topographic Analysis of Antartic](tshah2.github.io/TopographyArtic.md)
-[<img src="/images/github_2.PNG"/>]
+[<img src="/images/486_18.PNG">]
 
 ---
 [Gremline Sighting Analysis in Baltimore City](tshah2.github.io/BaltGremlin.md)
-(<img src="/images/486_11.PNG"/>)
+(<img src="/images/486_19.PNG"/>)
 
 ---
 [Gremline Sighting Analysis in Stranger Things](tshah2.github.io/StrangerGrem.md)
-(<img src="/images/486_14.PNG"/>)
+(<img src="/images/486_20.PNG"/>)
 ---
 [Building Analysis on Univeristy of Maryland Baltimore County Campus](tshah2.github.io/UMBCBuild.md)
-(<img src="/images/486_2.PNG"/>)
+(<img src="/images/486_21.PNG"/>)
 
 ### Links to Project Pages (Under Works)
 
