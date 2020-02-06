@@ -3,12 +3,16 @@
 ---
 ### Corrosion Research
 
-[Analysis of Molten Salt Corrosion on Various Alloys for Nuclear Application](tshah2.github.io/NucCor.md)
+[Corrosion Behavior of Molten Salt Corrosion on Various Alloys for Nuclear Application](tshah2.github.io/NucCor.md)
 
-<img src="/images/486_24.PNG"/> [(tshah2.github.io/NucCor.md)]
+With an increasing need for clean alternative energy, nuclear energy may present a promising future. Due to previous expereince and fear of toxic waste, many people are opposed to this form of alternative energy, however with GEN IV nuclear reactors this may not the be case anymore. 
+
+<img src="/images/486_24.PNG"/> [tshah2.github.io/NucCor.md]
 
 ---
-[Analysis of Molten Salt Corrosion on Coated and Uncoated Steel for CSP Application](tshah2.github.io/CSPCor.md)
+[Corrosion Behavior of Molten Salt Corrosion on Coated and Uncoated Steel for CSP Application](tshah2.github.io/CSPCor.md)
+
+Concentrated Solar Power plants present alternatives to the traditional photovoltaic solar power. These plants utilize molten salts as heat transfer fluids and thermal energy storage which allows for the ability to provide energy during non-daylight hours. However, molten salt is highly corrosion with many materials used a storage containers. 
 
 (<img src="/images/486_23.PNG"/>)
 
