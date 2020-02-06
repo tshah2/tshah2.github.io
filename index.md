@@ -5,7 +5,7 @@
 
 [Analysis of Molten Salt Corrosion on Various Alloys for Nuclear Application](tshah2.github.io/NucCor.md)
 
-(<img src="/images/486_22.PNG"/>)
+(<img src="/images/486_24.PNG"/>)
 
 ---
 [Analysis of Molten Salt Corrosion on Coated and Uncoated Steel for CSP Application](tshah2.github.io/CSPCor.md)
