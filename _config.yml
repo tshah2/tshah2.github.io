@@ -7,15 +7,15 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br/>
   
   <p> Currently reseraching in rain rate data from HydroNEXRAD and DPR for analysis in Baltimore County region.<p>
-  <br/>
   
-  <p> Linkedin Page:<p>
-  <a href="www.linkedin.com/in/touba-shah-436025125">View My LinkedIn Profile</a> 
-  <br/>
+  <p> Linkedin Page:
+  <a href="www.linkedin.com/in/touba-shah-436025125"> 
+  View My LinkedIn Profile</a> <p>
   
-  Github Page: 
-  <a href="https://tshah2.github.io/">View My GitHub Profile</a> 
-  <br/>
+  <p> Github Page: 
+  <a href="https://tshah2.github.io/"> 
+  View My GitHub Profile</a> <p>
+
   
 # Ignore these two parts
 theme: jekyll-theme-minimal
