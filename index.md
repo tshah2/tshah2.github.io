@@ -9,23 +9,19 @@
 (<img src="/images/Github_1.PNG"/>)
 
 ---
-[Topographic Analysis of Antartic](/pdf/sample_presentation.pdf)
-[<img src="/images/github_2.PNG"/>, <img src="/images/486_10.PNG"/>
-<img src="/images/486_9.PNG"/>, <img src="/images/486_8.PNG"/>]
+[Topographic Analysis of Antartic](tshah2.github.io/TopographyArtic)
+[<img src="/images/github_2.PNG"/>]
 
 ---
-[Gremline Sighting Analysis in Baltimore City](http://example.com/)
-(<img src="/images/486_11.PNG"/>, <img src="/images/486_12.PNG"/>
-<img src="/images/486_13.PNG"/>)
+[Gremline Sighting Analysis in Baltimore City](tshah2.github.io/BaltGrem)
+(<img src="/images/486_11.PNG"/>)
 
 ---
-[Gremline Sighting Analysis in Stranger Things](http://example.com/)
-<img src="/images/486_14.PNG"/,/images/486_16.PNG"/, /images/486_15.PNG"/>, <img src="/images/486_15.PNG"/>
-<img src="/images/486_16.PNG"/>
-
+[Gremline Sighting Analysis in Stranger Things](tshah2.github.io/StrangerGrem)
+(<img src="/images/486_14.PNG"/>)
 ---
-[Building Analysis on Univeristy of Maryland Baltimore County Campus](/sample_page)
-(<img src="/images/486_2.PNG"/>, <img src="/images/486_3.PNG"/>)
+[Building Analysis on Univeristy of Maryland Baltimore County Campus](tshah2.github.io/UMBCBuild)
+(<img src="/images/486_2.PNG"/>)
 
 ### Links to Project Pages (Under Works)
 
