@@ -30,17 +30,10 @@
 ---
 [Gremline Sighting Analysis in Stranger Things](tshah2.github.io/StrangerGrem.md)
 (<img src="/images/486_20.PNG"/>)
+
 ---
 [Building Analysis on Univeristy of Maryland Baltimore County Campus](tshah2.github.io/UMBCBuild.md)
 (<img src="/images/486_21.PNG"/>)
-
-### Links to Project Pages (Under Works)
-
-- [Vacant Lot Analysis in Baltimore City](http://example.com/)
-- [Topographic Analysis of Antartic](http://example.com/)
-- [Gremline Sighting Analysis in Baltimore City](http://example.com/)
-- [Gremline Sighting Analysis in Stranger Things](http://example.com/)
-- [Building Analysis on Univeristy of Maryland Baltimore County Campus](http://example.com/)
 
 ---
 
