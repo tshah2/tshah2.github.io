@@ -13,7 +13,7 @@
 [<img src="/images/github_2.PNG"/>]
 
 ---
-[Gremline Sighting Analysis in Baltimore City](tshah2.github.io/BaltGrem)
+[Gremline Sighting Analysis in Baltimore City](tshah2.github.io/BaltGremlin)
 (<img src="/images/486_11.PNG"/>)
 
 ---
