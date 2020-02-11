@@ -4,17 +4,17 @@
 @import "{{ site.theme }}";
 
 a {
- color:#FFCC00;
+ color:#6a0dad;
 }
 a:hover,
 a:focus {
- color:#FFCC00;
+ color:#6a0dad;
 }
 a small {
- color:#FFCC00;
+ color:#6a0dad;
 }
 a:hover small {
- color:#FFCC00
+ color:#6a0dad
 }
 
 body {
@@ -29,4 +29,5 @@ h1, h2, h3, h4, h5, h6 {
 header h1 a {
  font-size: 1.2em;
 }
+
 
