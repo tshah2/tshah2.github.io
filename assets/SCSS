@@ -4,17 +4,17 @@
 @import "{{ site.theme }}";
 
 a {
- color:#009999;
+ color:#FFCC00;
 }
 a:hover,
 a:focus {
- color:#009999;
+ color:#FFCC00;
 }
 a small {
- color:#009999;
+ color:#FFCC00;
 }
 a:hover small {
- color:#009999
+ color:#FFCC00
 }
 
 body {
