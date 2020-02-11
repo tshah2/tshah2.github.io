@@ -1,3 +1,5 @@
 Analysis of Molten Salt Corrosion on Coated and Uncoated Steel for CSP Application
 
-#(<img src="/images/486_23.PNG"/>)
+Due to the combined demand for energy and the negative effects of fossil fuels on the environment, increase reserach is being conducted in alternative energy. One such form of alternative energy is a Concentrated Solar Power Plant (CSP) which utilizes a molten salt and solar pannels to store, generate and distribute energy. Solar pannels are placed in a circular shape around a centeral tower which holds molten salts. These molten salts are heated and store the solar energy. This energy is then distrubuted through the plant to generate energy. Unlike conventional photovoltaic solar pannels, CSPs are able to store energy and utilize this energy during non-daylight hours and is able to be easily intigrated into exisiting power grids. However, molten salts, which are the heat storage medium, are highly corrosion despite favorable thermodynamic properties. This leads to a search for a compatible storage material. 
+
+<img src="/images/486_23.PNG"/>
