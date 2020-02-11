@@ -1,5 +1,5 @@
 
-Vacant Lot Analysis in Baltimore City
+**Vacant Lot Analysis in Baltimore City**
 
 Description
 
