@@ -1,5 +1,5 @@
 
-Gremline Sighting Analysis in Stranger Things
+**Gremline Sighting Analysis in Stranger Things**
 
 Description 
 
