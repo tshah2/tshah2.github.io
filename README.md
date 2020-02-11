@@ -1,6 +1,6 @@
 ## Touba Shah
 
-The front end of this repository is avaliable at: tshah2.github.io
+The front end of this repository is avaliable at: [tshah2.github.io](https://tshah2.github.io/)
 
 This is a project portfolio which identified corrosion reseearch for alternative energy application and use of GIS software for various projects in GES 386.
 
