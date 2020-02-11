@@ -7,7 +7,7 @@
 
 With an increasing need for clean alternative energy, nuclear energy may present a promising future. Due to previous expereince and fear of toxic waste, many people are opposed to this form of alternative energy, however with GEN IV nuclear reactors this may not the be case anymore. 
 
-<img src="/images/486_24.PNG"/> (tshah2.github.io/NucCor)
+[<img src="/images/486_24.PNG"/>] (tshah2.github.io/NucCor)
 
 ---
 ### [Corrosion Behavior of Molten Salt Corrosion on Coated and Uncoated Steel for CSP Application](tshah2.github.io/CSPCor)
