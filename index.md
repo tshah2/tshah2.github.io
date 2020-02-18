@@ -20,6 +20,13 @@ Concentrated Solar Power plants present alternatives to the traditional photovol
 ## ArcGis Mapping
 ### These projects were created for UMBC's GES 386 Class
 
+---
+### [Interactive Map of Bangladesh](tshah2.github.io/WebMap)
+The analysis of vacant lots in baltimore cities, effects of rats and a hexagon overlay to detemine 100m radius for baltimore city. 
+
+[<img src="/images/Bangla.PNG"/>](tshah2.github.io/WebMap)
+
+---
 ### [Vacant Lot Analysis in Baltimore City](tshah2.github.io/Vacancy)
 The analysis of vacant lots in baltimore cities, effects of rats and a hexagon overlay to detemine 100m radius for baltimore city. 
 
