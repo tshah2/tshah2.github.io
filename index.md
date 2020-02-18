@@ -18,9 +18,16 @@ Concentrated Solar Power plants present alternatives to the traditional photovol
 
 ---
 ## ArcGis Mapping
-### These projects were created for UMBC's GES 386 Class
+### These projects were created for UMBC's GES 386 and 486 Class
 
 ---
+### [Interactive Map of Pakistan](tshah2.github.io/Pakistan)
+Information about the Proviences in Pakistan with informaiton about various points of interest.
+
+[<img src="/images/PakGlimps.PNG"/>](tshah2.github.io/Pakistan)
+
+---
+
 ### [Interactive Map of Bangladesh](tshah2.github.io/WebMap)
 Information about the Proviences in Bangladesh
 
