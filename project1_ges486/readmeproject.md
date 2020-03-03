@@ -35,7 +35,7 @@ Make sure all of the data is in the same projections since the files are coming 
 
 **What is the analysis you'll be performing on your data sets?**
 
-The impact of topography (landuse) and population density:
+The impact of topography (landuse) on population density:
   Heatmap of population density 
  Distance to major cities relative to the placement of major landmarks:
   Heatmap of landmark density near major cities
