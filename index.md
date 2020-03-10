@@ -21,10 +21,10 @@ Concentrated Solar Power plants present alternatives to the traditional photovol
 ### These projects were created for UMBC's GES 386 and 486 Class
 
 ---
-### [Spatial Analysis of Pakistan](tshah2.github.io/Pakistan_Spatial)
+### [Spatial Analysis of Pakistan](tshah2.github.io/project1_ges486/Pakistan_Spatial.md)
 Information about the Proviences in Pakistan with informaiton about various points of interest.
 
-[<img src="/images/PakPre.PNG"/>](tshah2.github.io/Pakistan_Spatial)
+[<img src="/images/PakPre.PNG"/>](tshah2.github.io/project1_ges486/Pakistan_Spatial.md)
 
 ---
 ### [Interactive Map of Pakistan](tshah2.github.io/Pakistan)
