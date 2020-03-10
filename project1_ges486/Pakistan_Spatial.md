@@ -1,6 +1,6 @@
 **Spatial Analysis of Pakistan**
 
-This prokect looks looks into various spatial factors in pakistan relating mainly to the population distribution of in verious sub-districts. Pakistan's govermental systam is broken into varies tiers starting with the largest being the provinces which encompass Punjab, Balochistan, Sindi, FATA and NWFT and two autonomous regions of Azad Jammu and Kashmir and Gilgit-Balistan. The next tear encompasses Zehlas or districts and Tehseels or subdistricts (as mapped in this project). 
+This project looks looks into various spatial factors in pakistan relating mainly to the population distribution of in verious sub-districts. Pakistan's govermental systam is broken into varies tiers starting with the largest being the provinces which encompass Punjab, Balochistan, Sindi, FATA and NWFT and two autonomous regions of Azad Jammu and Kashmir and Gilgit-Balistan. The next tear encompasses Zehlas or districts and Tehseels or subdistricts (as mapped in this project). 
 
 <img src="/images/Overview.png"/>
 
