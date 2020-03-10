@@ -22,7 +22,7 @@ Concentrated Solar Power plants present alternatives to the traditional photovol
 
 ---
 ### [Spatial Analysis of Pakistan](tshah2.github.io/project1_ges486/Pakistan_Spatial)
-Information about the Proviences in Pakistan with informaiton about various points of interest.
+Spatial analysis of various aspects of Pakistan with distance between major landmarks and major cities, impact of elevation on population and distance of subdistricts to districts and proviancial capitals.
 
 [<img src="/images/PakPre.PNG"/>](tshah2.github.io/project1_ges486/Pakistan_Spatial)
 
