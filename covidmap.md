@@ -6,7 +6,7 @@ This interactive map shows the comparison of Covid-19 tweets vs Major League Bas
 
 Heat maps for each hashtag were generated as well. 
 For the Covid-19 tweets, there is a higher volume of tweets distruted across the states. There are indicated high volume in Southern California, New York and Michagin. 
-[<img src="/images/CovidHeat.png"/>]
+<img src="/images/CovidHeat.png"/>
 
 For the Opening Day tweets, there is a lower volume of tweets distruted across the states. There are indicated high volume in Southern California and Michagin. 
-[<img src="/images/GameDayHeat.png"/>]
+<img src="/images/GameDayHeat.png"/>
