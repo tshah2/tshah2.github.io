@@ -36,7 +36,7 @@ Information about the Proviences in Pakistan with informaiton about various poin
 ### [Analysis of Covid-19 Tweets](tshah2.github.io/covidmap)
 Comparison of Covid-19 tweets vs Major League Baseball Opening Day tweets using R and QGIS. 
 
-[<img src="/images/PakPre.PNG"/>](tshah2.github.io/covidmap)
+[<img src="/images/covid_pre.PNG"/>](tshah2.github.io/covidmap)
 
 ---
 
