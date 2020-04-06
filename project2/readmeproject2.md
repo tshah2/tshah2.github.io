@@ -24,12 +24,13 @@ Hospital Data: http://www.diva-gis.org/gData
 
 
 **Analysis: How are you going to modify / transform this data? IE, what tools are you going to use to modify and work on this data? What tool did you use?**
+
 Most of this data is simiply tables or sheets of data which will need to be moved into excel and have shapefiles created from them.
 I would use XY Data to bring in the data to QGIS
 
-Outputs: Instead of a single map or single leaflet output, please describe how this project will combine multiple perspectives of the data. 
+**Outputs: Instead of a single map or single leaflet output, please describe how this project will combine multiple perspectives of the data.
 You'll need to have a page for it on your github, but this page so be clear on what each of the outputs are. 
-You might have multiple leaflet maps or multiple map images, but they all must be polished.
+You might have multiple leaflet maps or multiple map images, but they all must be polished.**
 
 The outputs would consists of a heatmap timelapse of the spread and intensification of the virus(QGIS). This would be combined with a web map 
 that would use the images from instagram (popups) to track the changes in the corona situation with both the rise of cases and the responce of the 
