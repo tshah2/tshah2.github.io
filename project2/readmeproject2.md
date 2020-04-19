@@ -12,14 +12,20 @@ The aim of this porject would be to investigate the spread of the corona virus i
 Corona Data: https://www.geo.tv/trending/coronavirus
              http://covid.gov.pk/
 Timeline of events: https://www.geo.tv/latest/276711-a-timeline-of-the-emergence-of-the-coronavirus-in-pakistan
+
 News of pakistan spread: DAWN Today Instagram page
+
 Hospitals in pakistan: https://en.wikipedia.org/wiki/List_of_hospitals_in_Pakistan 
+
 District Data with Education Scores: https://elections.alifailaan.pk/wp-includes/file/DER17.pdf -> Chp 4
                                      https://elections.alifailaan.pk/rankings/
 
 Statistics Book: http://www.pbs.gov.pk/sites/default/files//PAKISTAN%20STATISTICAL%20YEAR%20BOOK%202018.pdf
+
 Hospital data: Stat book chp 10
+
 Population Data: http://www.diva-gis.org/gData
+
 Hospital Data: http://www.diva-gis.org/gData
 
 
