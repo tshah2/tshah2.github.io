@@ -27,10 +27,10 @@ Spatial analysis of various aspects of Pakistan with distance between major land
 [<img src="/images/PakPre.PNG"/>](tshah2.github.io/project1_ges486/Pakistan_Spatial)
 
 ---
-### [Covid-19 in Pakistan](tshah2.github.io/project2/Pakistan_Covid.md)
+### [Covid-19 in Pakistan](tshah2.github.io/project2/Pakistan_Covid)
 Spatial analysis of Covid-19 and various aspects influencing the spread of the virus through the districts. 
 
-[<img src="/images/Preview.PNG"/>](tshah2.github.io/project2/Pakistan_Covid.md)
+[<img src="/images/Preview.PNG"/>](tshah2.github.io/project2/Pakistan_Covid)
 
 ---
 ### [Interactive Map of Pakistan](tshah2.github.io/Pakistan)
