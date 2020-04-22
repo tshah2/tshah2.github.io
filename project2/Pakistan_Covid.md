@@ -10,14 +10,14 @@ This project looks looks into various spatial factors in
 
 *Hospitals related to Covid-19 Cases per District *
 
-<img src="/images/PopulationVhospial.png"/>
+<img src="/images/PopulationVhospital.png"/>
 
 <img src="/images/PopVDistance.png"/>
 
 
 *Analysis of Education Levels related to Covid-19 Cases per District*
 
-<img src="/images/Education.png"/>
+<img src="/images/EducationLevel.png"/>
 
 Analysis for these maps were conducted using elevation and administrative boarder data 
 from DIVA and pakistan census data. The census data was inserted into an excel sheet and 
