@@ -68,6 +68,5 @@ victim will be made as well attack by proviance. A map of crime type will be mad
 documented.Two maps will be created for possible causes based on education level of proviance and districts related to gender based violence and 
 of mean income (QGIS). 
 
-**What interactive features will you be adding?**
-A web map which contains data about the workforce based on gender will be created to allow viewers to see the distribution of data based on 
-on various factors. 
+**What interactive features will you be adding?**  
+A web map which contains data about the workforce based on gender will be created to allow viewers to see the distribution of data based on on various factors. 
