@@ -2,25 +2,25 @@
 
 Theme: Gender Analysis of Pakistan looking at various aspects
 
-1. Analysis of population by gender:
-  a. over time
-  b. by proviance 
+1. Analysis of population by gender:  
+  a. over time  
+  b. by proviance   
   
-2. Work Force Analysis by Gender:
-  a. Over time
-  b. Employment level
-  c. Wage 
+2. Work Force Analysis by Gender:  
+  a. Over time  
+  b. Employment level  
+  c. Wage   
   
- 3. Gender Based Violence:
-  a. Types of Violence by proviance
-  b. Age of Victims
-  c. Marital Status of Victims
-  d. Acid Throwing 
+ 3. Gender Based Violence:  
+  a. Types of Violence by proviance  
+  b. Age of Victims  
+  c. Marital Status of Victims    
+  d. Acid Throwing   
  
-Factors possible influencing violence: 
-4. Analysis of crime by region and type
-5. Analysis of income by proviance
-6. Analysis of Education by Gender per proviance and district
+Factors possible influencing violence:   
+4. Analysis of crime by region and type  
+5. Analysis of income by proviance  
+6. Analysis of Education by Gender per proviance and district  
 
 **Data: Where will the data come from? What does the data look like (which columns will you use? When was the data released?) 
 What project is the data in?**
