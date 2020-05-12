@@ -6,16 +6,13 @@ Theme: Gender Analysis of Pakistan looking at various aspects
   a. over time  
   b. by proviance   
   
-2. Work Force Analysis by Gender:  
-  a. Over time  
-  b. Employment level  
-  c. Wage   
+2. Work Force Analysis by Gender:   
+  a. Employment level  
+  b. Wage   
   
  3. Gender Based Violence:  
-  a. Types of Violence by proviance  
-  b. Age of Victims  
-  c. Marital Status of Victims    
-  d. Acid Throwing   
+  a. Types of Violence by proviance     
+  b. Acid Throwing   
  
 Factors possible influencing violence:   
 4. Analysis of crime by region and type  
