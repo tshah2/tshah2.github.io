@@ -33,10 +33,10 @@ Spatial analysis of Covid-19 and various aspects influencing the spread of the v
 [<img src="/images/Preview.PNG"/>](tshah2.github.io/project2/Pakistan_Covid)
 
 ---
-### [Gender Based Violence in Pakistan](tshah2.github.io/project2/Final)
+### [Gender Based Violence in Pakistan](tshah2.github.io/FinalProject/Final)
 Spatial analysis of Covid-19 and various aspects influencing the spread of the virus through the districts. 
 
-[<img src="/images/Final_Pre.PNG"/>](tshah2.github.io/project2/Final)
+[<img src="/images/Final_Pre.PNG"/>](tshah2.github.io/FinalProject/Final)
 
 ---
 
