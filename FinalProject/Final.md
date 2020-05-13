@@ -1,32 +1,32 @@
-**Spatial Analysis of Gender and Violence Against Women in Pakistan**
+### Spatial Analysis of Gender and Violence Against Women in Pakistan
 
 
-**Population By Gender**
+#### Population By Gender
 
 <img src="/images/Total_Pop.png"/>
 <img src="/images/Pop51_16.gif"/>
 
 
-**Violence Against Women**
+#### Violence Against Women
 
 <img src="/images/GVB.png"/>
 <img src="/images/Acid_attacks.png"/>
 
-**Possible Contributing Factors**
+##### Possible Contributing Factors
 
-*Crime
+###### Crime
 
 <img src="/images/Crimes.png"/>
 
-*Income
+###### Income
 
 <img src="/images/income.png"/>
 
-*Education
+###### Education
 
 <img src="/images/Education_Total.png"/>
 
-*Employment
+###### Employment
 
 <img src="/images/Employ.png"/>
 <img src="/images/Hours.png"/>
