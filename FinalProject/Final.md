@@ -41,7 +41,7 @@ This map was created using data from Government of Pakistan Bureau of Statistics
 
 #### Income
 
-A spatial analysis of average montly income (in Pakistani Rupees ($1 = 167 pkr)) was conducted. It showed similar patterns to the the cases of violence against women with the highest montly income ($142) being in Punjab, then Sindh ($126), then KPK ($124) and then Balochistan ($144). 
+A spatial analysis of average montly income (in Pakistani Rupees ($1 = 167 pkr)) was conducted. It showed similar patterns to the the cases of violence against women with the highest montly income ($142) being in Punjab, then Sindh ($126), then KPK ($124) and then Balochistan ($144). That would indicate that no relationship between gender based violence and income exist. 
 
 <img src="/images/income.png"/>
 
@@ -57,7 +57,7 @@ This map was created using data from Government of Pakistan Bureau of Statistics
 
 #### Employment
 
-A spatial analysis of employment was conducted which showed the highest employment level in Punjab, then Sindh, then Balochistan, and then KPK. It can be seen that mainly the males are employed with smaller fractions of employed females. These observations are similar to those of average monthly income and violence against women. It can be hypothesized (strictly from visual observations) that lower employment rates and lower income could be contributing factors in gender based violence. 
+A spatial analysis of employment was conducted which showed the highest employment level in Punjab, then Sindh, then Balochistan, and then KPK. It can be seen that mainly the males are employed with smaller fractions of employed females. These observations are similar to those of  violence against women. It can be hypothesized (strictly from visual observations) that lower employment rates could be contributing factors in gender based violence. 
 
 <img src="/images/Employ.png"/>
 
