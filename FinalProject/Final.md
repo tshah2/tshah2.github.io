@@ -33,22 +33,42 @@ Possible factors, such as crime, income, education, employment and hours worked,
 
 #### Crime
 
-The instances of crime was looked at  
+The instances of crime was looked at and it was seen that Punjab showed the highest number of total crimes, then KPK, then Sindh and then Balochistan. It can be seen in Pubjab that theft other then cattle theft is the most prevalent crime and then kidnapping, robbery and burglary. It can be seen in KPK murder and attempt to murder. It can be seen in Sindh that kidnapping, robbery and other theft besides cattle theft are the most prevalent crimes. It can be seen Balochistan that murder and attemp to murder are the most prevalent crimes. These observations align with the data for types of violence against women with the most prevalent crimes also being the most types of violence. Punjab shows the highest rate of crime as well as highest occurances of violence, however KPK shows the second highest crime rate but the third highest violence rate. Balochistan showed the lowest crime and lowest violence rate. 
+
 <img src="/images/Crimes.png"/>
+
+This map was created using data from Government of Pakistan Bureau of Statistics Statistic Book (seciton 19.3). It was created similarly to the maps in section one. This map only shows the common crimes in all proviances omitting the "other" crime numbers.  
 
 #### Income
 
+A spatial analysis of average montly income (in Pakistani Rupees ($1 = 167 pkr)) was conducted. It showed similar patterns to the the cases of violence against women with the highest montly income ($142) being in Punjab, then Sindh ($126), then KPK ($124) and then Balochistan ($144). 
+
 <img src="/images/income.png"/>
+
+This map was created using data from Government of Pakistan Bureau of Statistics Statistic Book (seciton 19.16). It was created similarly to the maps in section one. 
 
 #### Education
 
+A spatial analysis of education was conducted. It can be seen, from the avaliable data, that the highest litracy and highest illitracy rate are in KPK, then Punjab, then Sindh and then Balochistan. It can be seen that in KPK, Balochistan and Sindh, more males are educated than females. There is an almost even distribution between educated males and females in Punjab. There appears to be no relationship between education and violence against women. 
+
 <img src="/images/Education_Total.png"/>
+
+This map was created using data from Government of Pakistan Bureau of Statistics Census Data. The data was present in percent of the population. These percent values were brought into excel and multiplied to the total population of the proviance (data from seciond one) to obtain the number of people in the proviance who are educated. The shapefiles for this map were created similarly to the maps in section one. 
 
 #### Employment
 
+A spatial analysis of employment was conducted which showed the highest employment level in Punjab, then Sindh, then Balochistan, and then KPK. It can be seen that mainly the males are employed with smaller fractions of employed females. These observations are similar to those of average monthly income and violence against women. It can be hypothesized (strictly from visual observations) that lower employment rates and lower income could be contributing factors in gender based violence. 
+
 <img src="/images/Employ.png"/>
+
+An analysis of average weekly hours worked by proviance and gender was conducted. It can be seen that the highest number of hours worked is in Sindh, then Balochistan and then Punjab and then KPK. In all cases males showed worked more hours than females. No relationship can be seen between hours worked and violence against women. 
+
 <img src="/images/Hours.png"/>
 
-Analysis for these maps were conducted using elevation and administrative boarder data 
-from DIVA and pakistan census data. The census data was inserted into an excel sheet and 
-combined with the administrative boarder shapef
+These map was created using data from Government of Pakistan Bureau of Statistics Census Data. The data was present in percent of the population. The employment map data was formatted similarly to the map about education. All maps were created in a method similar to that of section one. 
+
+Analysis for all maps were conducted using administrative boarder data 
+from DIVA and pakistan census data.
+
+Farther analysis could be conducted to compare rural and urban areas as well as generate maps in which the values are normallized to the population of each proviance. 
+
